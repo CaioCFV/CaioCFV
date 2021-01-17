@@ -4,8 +4,8 @@ Github:
 
 # Caio Felipe Vieira 
 
-[![Linkedin Badge]](https://www.linkedin.com/in/caiofvieira/) 
-[![Gmail Badge]](mailto:caio2011dhd@gmail.com)
+[![Linkedin Badge](LINKEDIN)](https://www.linkedin.com/in/caiofvieira/) 
+[![Gmail Badge](EMAIL)](mailto:caio2011dhd@gmail.com)
 
 Desenvolvedor Web com conhecimento e experiencia profissional em HTML, CSS, Javascript, JQuery, Bootstrap - bem como frameworks JS - versionamento git e e-commerce na plataforma VTEX.
 
